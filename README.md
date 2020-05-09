@@ -1,5 +1,9 @@
 # brasilCEP
-Busca CEP
+## Busca CEP
+
+Uso: [Packagist tarcnux/brasil-cep](https://packagist.org/packages/tarcnux/brasil-cep)
+_composer require tarcnux/brasil-cep_
+
 
 Repositório referência: [Digital CEP](https://github.com/adrianowead/digital-cep)
 
