@@ -7,6 +7,6 @@ use Tarcnux\BrasilCep\Search;
 
 $busca = new Search;
 
-$resultado = $busca->getAdreesFromZipCode('01001000');
+$resultado = $busca->getAdreesFromZipCode('70175900');
 
 print_r($resultado);

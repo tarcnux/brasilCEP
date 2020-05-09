@@ -7,7 +7,7 @@ Repositório referência: [CEP Promise PHP](https://github.com/claudsonm/cep-pro
 
 Repositório referência: [Brasil API](https://github.com/filipedeschamps/BrasilAPI) do Filipe Deschamps.
 
-[Via CEP](https://viacep.com.br/ws/88354250/json/)
+[Via CEP](https://viacep.com.br/ws/70175-900/json/)
 
 
 composer init
